@@ -11,6 +11,7 @@ function handleH1Click() {
         newColor = "blue";
     }
     h1.style.color = newColor;
+    h1.style.color = newColor;
 }
 
 function handleMouseEnter() {
